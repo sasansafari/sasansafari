@@ -14,8 +14,7 @@
           [Android](https://developer.android.com/docs)
           [Apple Ios](https://developer.apple.com/documentation/)
           
-- 🦄 Founder of Faracode open source organization
-
+ 
 ### Open Source Projects
 
 [![TechBlog](https://github-readme-stats.vercel.app/api/pin/?username=sasansafari&repo=techblog)](https://github.com/sasansafari/techblog)
