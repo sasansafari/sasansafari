@@ -15,11 +15,6 @@
           [Apple Ios](https://developer.apple.com/documentation/)
           
  
-### Open Source Projects
-
-[![TechBlog](https://github-readme-stats.vercel.app/api/pin/?username=sasansafari&repo=techblog)](https://github.com/sasansafari/techblog)
-[![WhatsApp Agora Sample](https://github-readme-stats.vercel.app/api/pin/?username=sasansafari&repo=whatsapp_agora_sample)](https://github.com/sasansafari/whatsapp_agora_sample)
-[![Watch Store Bloc Sample](https://github-readme-stats.vercel.app/api/pin/?username=sasansafari&repo=watchStore)](https://github.com/sasansafari/watchStore)
  
 ### Github Stats
 
