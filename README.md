@@ -1,13 +1,15 @@
 ### Hi there 👋
 
-[I'am](https://sasansafari.com) a software engineer and Co-Founder @ Lunyx Agency 🌕💎
+[I'am](https://sasansafari.com) a software engineer and Co-Founder @ [Lunyx Agency](https://lunyxagency.com/)🌕💎
 
-- Programming instructor at [CodeYad](https://codeyad.com) Academy and [Maktabkhooneh](https://maktabkhooneh.org/)
- 
-- 🚚 I’m currently working on the TranXport 
+- Programming instructor at [CodeYad](https://codeyad.com) Academy and [Maktabkhooneh](https://maktabkhooneh.org/) 
+- See my projects in [Lunyx Agency](https://lunyxagency.com/)
+
+- 🚚 I’m currently working on the Shenidar Mobile App 
 - 🎧 I'm producing a podcast about the Flutter framework, Flutter is love
 - ☕ I am producing  tutorials for the Flutter and Mobile Native Programming 
 - 🧑‍💻 I’m looking to collaborate on open source projects
+
 - 💬 Ask me about:
           [Flutter](https://flutter.dev)
           [Dart](https://dart.dev)
