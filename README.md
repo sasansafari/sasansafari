@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-[I'am](https://sasansafari.com) a software engineer and Co-Founder @ [Lunyx Agency](https://lunyxagency.com/)🌕💎
+[I'am](https://sasansafari.com) a software engineer and Co-Founder @ [Codeyad](https://codeyad.com/)🌕💎
 
 - Programming instructor at [CodeYad](https://codeyad.com) Academy and [Maktabkhooneh](https://maktabkhooneh.org/) 
-- See my projects in [Lunyx Agency](https://lunyxagency.com/)
 
 -  I’m currently working on the Mr Building Mobile App 
 - 🎧 I'm producing a podcast about the Flutter framework, Flutter is love
